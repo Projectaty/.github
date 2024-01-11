@@ -1,5 +1,6 @@
-# Proejctaty👋
 <div align="center">
+  
+# Proejctaty
 
   Projectaty is a projects management and tasks management mobile app that can be beneficial for Birzeit Students with their projects and team works. It helps make their life during their study easier and more productive.
 
