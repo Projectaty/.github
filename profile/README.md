@@ -1,12 +1,8 @@
-## Proejctaty👋
+# Proejctaty👋
+<div align="center">
 
-<!--
+  Projectaty is a projects management and tasks management mobile app that can be beneficial for Birzeit Students with their projects and team works. It helps make their life during their study easier and more productive.
 
-**Here are some ideas to get you started:**
+<img src="https://github.com/Projectaty/.github/assets/65151701/26330f74-0cdd-47ab-a170-b5757eebbe44" height="350"/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
